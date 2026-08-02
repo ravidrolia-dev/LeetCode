@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ravidrolia-dev/LeetCode/tree/master/0001-two-sum) |
 | [0047-permutations-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/ravidrolia-dev/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ravidrolia-dev/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0090-subsets-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/ravidrolia-dev/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ravidrolia-dev/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
