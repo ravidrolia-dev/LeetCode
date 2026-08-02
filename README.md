@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ravidrolia-dev/LeetCode/tree/master/0001-two-sum) |
 | [0047-permutations-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ravidrolia-dev/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0090-subsets-ii) |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0047-permutations-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ravidrolia-dev/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
