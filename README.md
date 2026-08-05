@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0090-subsets-ii) |
 | [0904-fruit-into-baskets](https://github.com/ravidrolia-dev/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ravidrolia-dev/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ravidrolia-dev/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Backtracking
 |  |
 | ------- |
