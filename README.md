@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ravidrolia-dev/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0509-fibonacci-number](https://github.com/ravidrolia-dev/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ravidrolia-dev/LeetCode/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/ravidrolia-dev/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ravidrolia-dev/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ravidrolia-dev/LeetCode/tree/master/0078-subsets) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ravidrolia-dev/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/ravidrolia-dev/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ravidrolia-dev/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ravidrolia-dev/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -133,6 +136,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ravidrolia-dev/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ravidrolia-dev/LeetCode/tree/master/0739-daily-temperatures) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ravidrolia-dev/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
