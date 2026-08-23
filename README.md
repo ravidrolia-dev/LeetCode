@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ravidrolia-dev/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ravidrolia-dev/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0090-subsets-ii) |
+| [0162-find-peak-element](https://github.com/ravidrolia-dev/LeetCode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/ravidrolia-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ravidrolia-dev/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/ravidrolia-dev/LeetCode/tree/master/0162-find-peak-element) |
 | [1004-max-consecutive-ones-iii](https://github.com/ravidrolia-dev/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ravidrolia-dev/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
