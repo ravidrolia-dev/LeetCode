@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-design-front-middle-back-queue](https://github.com/ravidrolia-dev/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ravidrolia-dev/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ravidrolia-dev/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ravidrolia-dev/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Backtracking
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/ravidrolia-dev/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/ravidrolia-dev/LeetCode/tree/master/0641-design-circular-deque) |
 | [1670-design-front-middle-back-queue](https://github.com/ravidrolia-dev/LeetCode/tree/master/1670-design-front-middle-back-queue) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ravidrolia-dev/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Greedy
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/ravidrolia-dev/LeetCode/tree/master/0735-asteroid-collision) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ravidrolia-dev/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Linked List
 |  |
 | ------- |
