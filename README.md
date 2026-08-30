@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ravidrolia-dev/LeetCode/tree/master/0029-divide-two-integers) |
 | [0509-fibonacci-number](https://github.com/ravidrolia-dev/LeetCode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ravidrolia-dev/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/ravidrolia-dev/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0090-subsets-ii) |
 ## Sorting
