@@ -11,8 +11,6 @@ public:
                 }
             }
         }
-        for(auto it :ind){
-            cout<<it<<" ";
-        }
+        
     return ind;}
 };
