@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/ravidrolia-dev/LeetCode/tree/master/0029-divide-two-integers) |
 | [0509-fibonacci-number](https://github.com/ravidrolia-dev/LeetCode/tree/master/0509-fibonacci-number) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ravidrolia-dev/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ravidrolia-dev/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ravidrolia-dev/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Backtracking
 |  |
 | ------- |
