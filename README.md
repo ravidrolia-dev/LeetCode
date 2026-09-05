@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/ravidrolia-dev/LeetCode/tree/master/0029-divide-two-integers) |
 | [0509-fibonacci-number](https://github.com/ravidrolia-dev/LeetCode/tree/master/0509-fibonacci-number) |
+| [1238-circular-permutation-in-binary-representation](https://github.com/ravidrolia-dev/LeetCode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ravidrolia-dev/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ravidrolia-dev/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ravidrolia-dev/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0090-subsets-ii) |
+| [1238-circular-permutation-in-binary-representation](https://github.com/ravidrolia-dev/LeetCode/tree/master/1238-circular-permutation-in-binary-representation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ravidrolia-dev/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
+| [1238-circular-permutation-in-binary-representation](https://github.com/ravidrolia-dev/LeetCode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1310-xor-queries-of-a-subarray](https://github.com/ravidrolia-dev/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ravidrolia-dev/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ravidrolia-dev/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
