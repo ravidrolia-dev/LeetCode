@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ravidrolia-dev/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ravidrolia-dev/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/ravidrolia-dev/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2683-neighboring-bitwise-xor](https://github.com/ravidrolia-dev/LeetCode/tree/master/2683-neighboring-bitwise-xor) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Backtracking
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ravidrolia-dev/LeetCode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ravidrolia-dev/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/ravidrolia-dev/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2683-neighboring-bitwise-xor](https://github.com/ravidrolia-dev/LeetCode/tree/master/2683-neighboring-bitwise-xor) |
 ## Sorting
 |  |
 | ------- |
