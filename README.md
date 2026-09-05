@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1238-circular-permutation-in-binary-representation](https://github.com/ravidrolia-dev/LeetCode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ravidrolia-dev/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ravidrolia-dev/LeetCode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
+| [2527-find-xor-beauty-of-array](https://github.com/ravidrolia-dev/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ravidrolia-dev/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ravidrolia-dev/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/ravidrolia-dev/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2527-find-xor-beauty-of-array](https://github.com/ravidrolia-dev/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 | [2683-neighboring-bitwise-xor](https://github.com/ravidrolia-dev/LeetCode/tree/master/2683-neighboring-bitwise-xor) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Backtracking
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ravidrolia-dev/LeetCode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ravidrolia-dev/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/ravidrolia-dev/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2527-find-xor-beauty-of-array](https://github.com/ravidrolia-dev/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 | [2683-neighboring-bitwise-xor](https://github.com/ravidrolia-dev/LeetCode/tree/master/2683-neighboring-bitwise-xor) |
 ## Sorting
 |  |
