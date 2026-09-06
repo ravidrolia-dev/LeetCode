@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ravidrolia-dev/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/ravidrolia-dev/LeetCode/tree/master/0029-divide-two-integers) |
 | [0509-fibonacci-number](https://github.com/ravidrolia-dev/LeetCode/tree/master/0509-fibonacci-number) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/ravidrolia-dev/LeetCode/tree/master/1238-circular-permutation-in-binary-representation) |
