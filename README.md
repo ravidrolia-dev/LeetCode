@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ravidrolia-dev/LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/ravidrolia-dev/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ravidrolia-dev/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ravidrolia-dev/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ravidrolia-dev/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/ravidrolia-dev/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1670-design-front-middle-back-queue](https://github.com/ravidrolia-dev/LeetCode/tree/master/1670-design-front-middle-back-queue) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ravidrolia-dev/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ravidrolia-dev/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ravidrolia-dev/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ravidrolia-dev/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ravidrolia-dev/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ravidrolia-dev/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/ravidrolia-dev/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ravidrolia-dev/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
