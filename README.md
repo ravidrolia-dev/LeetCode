@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/ravidrolia-dev/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0383-ransom-note](https://github.com/ravidrolia-dev/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ravidrolia-dev/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0680-valid-palindrome-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ravidrolia-dev/LeetCode/tree/master/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ravidrolia-dev/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Monotonic Stack
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ravidrolia-dev/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ravidrolia-dev/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0680-valid-palindrome-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Simulation
 |  |
 | ------- |
