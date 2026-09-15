@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ravidrolia-dev/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/ravidrolia-dev/LeetCode/tree/master/0029-divide-two-integers) |
+| [0477-total-hamming-distance](https://github.com/ravidrolia-dev/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0509-fibonacci-number](https://github.com/ravidrolia-dev/LeetCode/tree/master/0509-fibonacci-number) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/ravidrolia-dev/LeetCode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ravidrolia-dev/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ravidrolia-dev/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/ravidrolia-dev/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0477-total-hamming-distance](https://github.com/ravidrolia-dev/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0503-next-greater-element-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/ravidrolia-dev/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/ravidrolia-dev/LeetCode/tree/master/0641-design-circular-deque) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ravidrolia-dev/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0477-total-hamming-distance](https://github.com/ravidrolia-dev/LeetCode/tree/master/0477-total-hamming-distance) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/ravidrolia-dev/LeetCode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1310-xor-queries-of-a-subarray](https://github.com/ravidrolia-dev/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ravidrolia-dev/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
