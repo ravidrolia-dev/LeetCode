@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ravidrolia-dev/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ravidrolia-dev/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/ravidrolia-dev/LeetCode/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/ravidrolia-dev/LeetCode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/ravidrolia-dev/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ravidrolia-dev/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ravidrolia-dev/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ravidrolia-dev/LeetCode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/ravidrolia-dev/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/ravidrolia-dev/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ravidrolia-dev/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0090-subsets-ii) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ravidrolia-dev/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ravidrolia-dev/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ravidrolia-dev/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/ravidrolia-dev/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0680-valid-palindrome-ii) |
