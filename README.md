@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/ravidrolia-dev/LeetCode/tree/master/0641-design-circular-deque) |
 | [0735-asteroid-collision](https://github.com/ravidrolia-dev/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ravidrolia-dev/LeetCode/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/ravidrolia-dev/LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/ravidrolia-dev/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ravidrolia-dev/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ravidrolia-dev/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ravidrolia-dev/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/ravidrolia-dev/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/ravidrolia-dev/LeetCode/tree/master/0860-lemonade-change) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ravidrolia-dev/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Monotonic Stack
 |  |
