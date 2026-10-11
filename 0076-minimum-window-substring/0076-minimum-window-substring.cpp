@@ -4,8 +4,8 @@ public:
         if(s.size() < t.size())return "";
         int m = s.size();
         int n = t.size();
-        vector<int> need(128,0);
-        vector<int> window(128,0);
+        vector<int> need(58,0);
+        vector<int> window(58,0);
         for(int i = 0 ; i < n ; i++){
             need[t[i]-'A']++;
         }
