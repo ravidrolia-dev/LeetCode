@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ravidrolia-dev/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/ravidrolia-dev/LeetCode/tree/master/0029-divide-two-integers) |
 | [0263-ugly-number](https://github.com/ravidrolia-dev/LeetCode/tree/master/0263-ugly-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/ravidrolia-dev/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0509-fibonacci-number](https://github.com/ravidrolia-dev/LeetCode/tree/master/0509-fibonacci-number) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/ravidrolia-dev/LeetCode/tree/master/1238-circular-permutation-in-binary-representation) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ravidrolia-dev/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ravidrolia-dev/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/ravidrolia-dev/LeetCode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/ravidrolia-dev/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0503-next-greater-element-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/ravidrolia-dev/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ravidrolia-dev/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ravidrolia-dev/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/ravidrolia-dev/LeetCode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/ravidrolia-dev/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ravidrolia-dev/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
