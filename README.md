@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ravidrolia-dev/LeetCode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/ravidrolia-dev/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ravidrolia-dev/LeetCode/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [3693-climbing-stairs-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2425-bitwise-xor-of-all-pairings](https://github.com/ravidrolia-dev/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2527-find-xor-beauty-of-array](https://github.com/ravidrolia-dev/LeetCode/tree/master/2527-find-xor-beauty-of-array) |
 | [2683-neighboring-bitwise-xor](https://github.com/ravidrolia-dev/LeetCode/tree/master/2683-neighboring-bitwise-xor) |
+| [3693-climbing-stairs-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ravidrolia-dev/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Backtracking
 |  |
